@@ -1,0 +1,14 @@
+{
+  "name": "vs-code-mocha",
+  "version": "1.0.0",
+  "description": "Project to learn how to enable and run mocha tests in VS Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manfred Lange",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^5.2.5"
+  }
+}
