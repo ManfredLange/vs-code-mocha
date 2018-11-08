@@ -4,7 +4,8 @@
         "module": "commonjs",
         "sourceMap": true,
         "outDir": "./dist",
-        "moduleResolution": "node"
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true
     },
     "exclude": [
         "dist"
